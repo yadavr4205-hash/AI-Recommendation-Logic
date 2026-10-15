@@ -1,0 +1,148 @@
+[
+  {
+    "id": 1,
+    "title": "Python Programming Fundamentals",
+    "category": "Technology",
+    "description": "Learn variables, loops, functions, and core Python concepts.",
+    "tags": [
+      "python",
+      "coding",
+      "programming",
+      "beginner"
+    ]
+  },
+  {
+    "id": 2,
+    "title": "Introduction to Artificial Intelligence",
+    "category": "Technology",
+    "description": "Explore AI concepts, intelligent systems, and real-world applications.",
+    "tags": [
+      "ai",
+      "artificial intelligence",
+      "machine learning",
+      "technology"
+    ]
+  },
+  {
+    "id": 3,
+    "title": "Machine Learning Basics",
+    "category": "Technology",
+    "description": "Understand datasets, model training, classification, and prediction.",
+    "tags": [
+      "machine learning",
+      "ai",
+      "data science",
+      "python"
+    ]
+  },
+  {
+    "id": 4,
+    "title": "Data Analysis with Python",
+    "category": "Technology",
+    "description": "Clean, explore, and summarize data using Python workflows.",
+    "tags": [
+      "data science",
+      "data analysis",
+      "python",
+      "statistics"
+    ]
+  },
+  {
+    "id": 5,
+    "title": "Web Development Starter",
+    "category": "Technology",
+    "description": "Build the foundations of websites using HTML, CSS, and JavaScript.",
+    "tags": [
+      "web development",
+      "coding",
+      "html",
+      "css",
+      "javascript"
+    ]
+  },
+  {
+    "id": 6,
+    "title": "UI and UX Design Principles",
+    "category": "Design",
+    "description": "Learn usability, visual hierarchy, prototyping, and user-centered design.",
+    "tags": [
+      "design",
+      "ui",
+      "ux",
+      "creativity",
+      "prototyping"
+    ]
+  },
+  {
+    "id": 7,
+    "title": "Graphic Design Essentials",
+    "category": "Design",
+    "description": "Practice typography, layout, color, and visual communication.",
+    "tags": [
+      "design",
+      "graphics",
+      "creativity",
+      "visuals"
+    ]
+  },
+  {
+    "id": 8,
+    "title": "Cybersecurity Awareness",
+    "category": "Technology",
+    "description": "Learn safe digital practices, common threats, and security basics.",
+    "tags": [
+      "cybersecurity",
+      "security",
+      "technology",
+      "networking"
+    ]
+  },
+  {
+    "id": 9,
+    "title": "Cloud Computing Fundamentals",
+    "category": "Technology",
+    "description": "Discover cloud services, deployment models, and scalable systems.",
+    "tags": [
+      "cloud",
+      "technology",
+      "networking",
+      "devops"
+    ]
+  },
+  {
+    "id": 10,
+    "title": "Digital Marketing Basics",
+    "category": "Business",
+    "description": "Explore content strategy, search optimization, and online campaigns.",
+    "tags": [
+      "marketing",
+      "business",
+      "social media",
+      "content"
+    ]
+  },
+  {
+    "id": 11,
+    "title": "Communication and Teamwork",
+    "category": "Personal Development",
+    "description": "Strengthen collaboration, listening, and clear communication.",
+    "tags": [
+      "communication",
+      "teamwork",
+      "leadership",
+      "soft skills"
+    ]
+  },
+  {
+    "id": 12,
+    "title": "Statistics for Beginners",
+    "category": "Education",
+    "description": "Understand averages, probability, distributions, and data interpretation.",
+    "tags": [
+      "statistics",
+      "math",
+      "data science",
+      "analytics"
+    ]
+  }
+]
